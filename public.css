@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+}
+body{
+	font: 14px/1.5 "PingFang SC","微软雅黑","Microsoft YaHei",Helvetica,"Helvetica Neue",Tahoma,Arial,sans-serif;
+	background: #f3f3f3;
+	
+}
+.continer{
+	width:100%;
+	margin:0 auto;
+}
+.box{
+	background: #f60;
+	float: left;
+	margin:1.66%;
+	padding:15%;
+	border-radius:4%;
+
+}
+.box:hover{
+	background: #a000a0;
+}
+.clear{
+	clear: both;
+}
